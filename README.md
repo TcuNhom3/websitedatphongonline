@@ -2,7 +2,7 @@
 
 ## Website quản lý đặt phòng online khách sạn Fairybay
 
-​	 				<img scr="http://imgur.com/wlr7V5R">
+​	 				http://imgur.com/6PSr7Dd
 
 
 
@@ -50,6 +50,9 @@ Chúng tôi dùng [Git](https://git-scm.com/) để tổ chức quản lý phiê
 project được viết theo mô hình MVC kết hợp với các nguyên tắc trong lập trình
 
 Các quy tắc về chuẩn lập trình:[Thông tin chi tiết về chuẩn lập trình](https://github.com/itplus77/4305-phan-mem-quan-ly-khach-san/blob/master/Quy%20t%E1%BA%AFc%20v%C3%A0%20phong%20c%C3%A1ch%20vi%E1%BA%BFt%20code%20trong%20l%E1%BA%ADp%20tr%C3%ACnh.md)
+
+#### Thông tin về tổ chức mã nguồn
+
 
 
 
