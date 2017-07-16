@@ -2,8 +2,7 @@
 
 ## Website quản lý đặt phòng online khách sạn Fairybay
 
-​	 				http://imgur.com/6PSr7Dd
-
+​	 			<img src="http://imgur.com/6PSr7Dd">	
 
 
 
