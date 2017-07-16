@@ -10,11 +10,12 @@
 
 
 
+
 ​	Ngày nay việc đặt phòng khách sạn thật sự đơn giản . Trước đây, khách du lịch thường mua dịch vụ trọn gói của đại lý hoặc tự tìm thông tin liên hệ  khách sạn và đặt phòng. Nhưng giờ đây, chỉ đơn giản bằng cách truy cập vào trang web, với các thao tác đơn giản  du khách quên đi mối lo lắng về nơi ăn chốn nghỉ cho Chuyến du lịch thú vị của mình
 
 ​	Công nghệ thông tin phát triển, the web trực tuyến trang bắt đầu ra đời giành vị trí lớn trong việc đặt phòng ở Việt Nam. Các web trang online ngày càng thu hút lượng lớn khách .
 
-​	Hệ thống dữ liệu có sẵn luôn, thông tin đầy đủ về vị trí, giá phòng, tiêu chuẩn, the tiện ích, dịch vụ giải trí, hình ảnh của hàng trăm khách sạn been phân loại cụ thể từ địa điểm đến giá phòng với nhiều cấp độ từ bình dân đến cao cấp, du khách dễ dàng chọn  khách sạn phù hợp với mình, 
+​	Hệ thống dữ liệu được cài đặt sẵn, thông tin đầy đủ về vị trí, giá phòng, tiêu chuẩn, tiện ích, dịch vụ giải trí, hình ảnh của hàng trăm khách sạn phân loại cụ thể từ địa điểm đến giá phòng với nhiều cấp độ từ bình dân đến cao cấp, du khách dễ dàng chọn  khách sạn phù hợp với mình, 
 
  #### Mục tiêu phát triển của dự án
 
