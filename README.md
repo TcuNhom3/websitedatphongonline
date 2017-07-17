@@ -85,7 +85,7 @@ Tài liệu thiết kế: [Tài liệu dành cho thiết kế Html css](https://
 #### Cách lấy mã và đóng góp mã nguồn
 
 - [Xem video hướng dẫn chi tiết](https://www.youtube.com/watch?v=yXT1ElMEkW8)
-- Clone kho gốc về: `git clone git@github.com:VietOpenCPS/opencps.git`
+- Clone kho gốc về: `git clone https://github.com/TcuNhom3/websitedatphongonline.git`
 - Hoặc pull bản latest trên nhánh "Release Candidate branch" về (nếu đã clone kho local sẵn): `git checkout <qa-rc-xxx>; git pull`
 - Chuyển về & cập nhật nhánh `master`: `git checkout master; git pull`
 - Thực hiện merge nhánh `RC` về nhánh `master`: `git merge <qa-rc-xxx>`
