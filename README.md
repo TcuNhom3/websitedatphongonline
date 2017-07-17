@@ -84,7 +84,18 @@ Tài liệu thiết kế: [Tài liệu dành cho thiết kế Html css](https://
 
 #### Cách lấy mã và đóng góp mã nguồn
 
-[Xem video hướng dẫn chi tiết](https://www.youtube.com/watch?v=yXT1ElMEkW8)
+- [Xem video hướng dẫn chi tiết](https://www.youtube.com/watch?v=yXT1ElMEkW8)
+- Clone kho gốc về: `git clone git@github.com:VietOpenCPS/opencps.git`
+- Hoặc pull bản latest trên nhánh "Release Candidate branch" về (nếu đã clone kho local sẵn): `git checkout <qa-rc-xxx>; git pull`
+- Chuyển về & cập nhật nhánh `master`: `git checkout master; git pull`
+- Thực hiện merge nhánh `RC` về nhánh `master`: `git merge <qa-rc-xxx>`
+- Tagging release: `git tag <release-number>`, rồi nhập tagging message vào, thường là URL đến Release Notes (cần phải viết & đưa lên trước tại: [Thông tin phát hành](https://github.com/VietOpenCPS/doc/wiki#th%C3%B4ng-tin-ph%C3%A1t-h%C3%A0nh)
+- Nên thêm tham số `-s` để ký vào bản phát hành bằng khóa OpenPGP
+- Push lại lên kho gốc trên GitHub: `git push`
+- Optional. Merge nhánh `RC` về nhánh `develop`: trong nhiều trường hợp, đặc biệt là giai đoạn đầu của dự án, toàn bộ code trên nhánh RC branch sẽ được sử dụng tiếp trong các phiên bản tiếp theo => cần thực hiện merge tương tự như trên cho nhánh `develop`.
+- Lưu ý:
+- Release Notes cần được viết riêng trước lên một trang wiki mới và link vào trang wiki Home tại phần [Thông tin phát hành](https://github.com/VietOpenCPS/doc/wiki#th%C3%B4ng-tin-ph%C3%A1t-h%C3%A0nh)
+- Sau khi push lên kho git gốc, cần viết thông báo phát hành gửi lên Mailing list. Tham khảo: [Thông báo phát hành OpenCPS 1.0](http://lists.opencps.vn/pipermail/opencps/2016-May/000210.html)
 
 #### Tài liệu cho nhà phát triển:
 
