@@ -40,7 +40,7 @@ Chúng tôi dùng [Git](https://git-scm.com/) để tổ chức quản lý phiê
 
 #### Giấy phép: 
 
-[Đồ án này được cấp phép theo giấy phép của General Public License - xem file [thông tin giấy phép](https://github.com/TcuNhom3/websitedatphongonline/blob/master/Th%C3%B4ng%20tin%20v%E1%BB%81%20gi%E1%BA%A5y%20ph%C3%A9p.md)
+Đồ án này được cấp phép theo giấy phép của General Public License - xem file [thông tin giấy phép](https://github.com/TcuNhom3/websitedatphongonline/blob/master/Th%C3%B4ng%20tin%20v%E1%BB%81%20gi%E1%BA%A5y%20ph%C3%A9p.md)
 
 
 
